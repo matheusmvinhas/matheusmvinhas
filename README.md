@@ -1,6 +1,6 @@
 # Matheus Vinhas
 
-![Matheus Vinhas - Analytics Engineer](./F6D4F1D0-5AEE-415B-ACDD-EE188DD5DEC9.png)
+![Matheus Vinhas - Analytics Engineer](./capa.jpeg)
 
 ---
 
