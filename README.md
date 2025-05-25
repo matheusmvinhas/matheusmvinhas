@@ -1,16 +1,27 @@
-## Hi there 👋
+# Matheus Vinhas
 
-<!--
-**matheusmvinhas/matheusmvinhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Matheus Vinhas - Analytics Engineer](./F6D4F1D0-5AEE-415B-ACDD-EE188DD5DEC9.png)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ABOUT ME 👋
+
+- 🇧🇷 Analytics Engineer apaixonado por arquitetura de dados e big data.  
+- 🚀 Especialista espark.  
+- 🐳 Adepto de soluções Dockerizadas para pipelines de dados robustos. 
+
+---
+
+## LANGUAGES
+
+- 🇧🇷 Portuguese - Native  
+- 🇺🇸 English - Fluent/C1  
+- 🇪🇸 Spanish - Intermediate/B2   
+
+---
+
+## CONTACT
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/matheus-vinhas)  
+- [📦 Dev Sandbox](https://github.com/matheusmvinhas/dev-sandbox)  
+- 📧 Email: matheusamvinhas@gmail.com 
