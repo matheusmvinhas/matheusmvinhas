@@ -6,9 +6,9 @@
 
 ## ABOUT ME 👋
 
-- 🇧🇷 Analytics Engineer apaixonado por arquitetura de dados e big data.  
-- 🚀 Especialista espark.  
-- 🐳 Adepto de soluções Dockerizadas para pipelines de dados robustos. 
+🇧🇷 Analytics Engineer passionate about data architecture and big data.
+🚀 Specialist in Spark.
+🐳 Enthusiast of Dockerized solutions for robust data pipelines.
 
 ---
 
