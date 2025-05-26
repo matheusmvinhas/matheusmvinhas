@@ -22,6 +22,6 @@
 
 ## CONTACT
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/matheus-vinhas)  
+- [🔗 LinkedIn](https://www.linkedin.com/in/matheusmvinhas/)  
 - [📦 Dev Sandbox](https://github.com/matheusmvinhas/dev-sandbox)  
 - 📧 Email: matheusamvinhas@gmail.com 
